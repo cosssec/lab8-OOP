@@ -1,7 +1,7 @@
-package Modified;
-
 import Meta.FacebookUser;
 import java.util.Date;
+
+import Modified.ModifiedFacebookUser;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

@@ -1,6 +1,6 @@
-package Modified;
-
 import Meta.FacebookUser;
+import Modified.MessageSender;
+import Modified.ModifiedFacebookUser;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

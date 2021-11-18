@@ -1,5 +1,4 @@
-package Modified;
-
+import Modified.ModifiedTwitterUser;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import Twitter.TwitterUser;
